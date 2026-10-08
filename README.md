@@ -9,6 +9,8 @@ Outside of tech, I’m an anime fan, with One Piece being a particular favorite.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mirzamudassir1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+
 ## 🛠️ Tech Stack
 
 <p>
