@@ -9,3 +9,14 @@ Outside of tech, I’m an anime fan, with One Piece being a particular favorite.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mirzamudassir1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,tailwind&perline=9" alt="Web" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,sklearn,pandas,numpy&perline=9" alt="Languages and ML" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=9" alt="Tools" />
+</p>
