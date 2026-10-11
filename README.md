@@ -13,12 +13,12 @@ Outside of tech, I’m an anime fan, with One Piece being a particular favorite.
 
 ## 🛠️ Tech Stack
 
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,sklearn,pandas,numpy&perline=9" alt="Languages and ML" />
+</p>
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,tailwind&perline=9" alt="Web" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,sklearn,pandas,numpy&perline=9" alt="Languages and ML" />
-</p>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=9" alt="Tools" />
 </p>
