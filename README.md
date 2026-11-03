@@ -4,7 +4,7 @@ My interests include deep learning, image processing, local LLMs, AI automation,
 Open to collaborating on meaningful AI/ML, computer vision, full-stack, and open-source projects
 Outside of tech, I’m an anime fan, with One Piece being a particular favorite.
 
-## 🔥 GitHub Streak
+## 🔥 GitHub & Leetcode Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mirzamudassir1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
