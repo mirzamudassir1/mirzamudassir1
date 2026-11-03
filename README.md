@@ -9,7 +9,9 @@ Outside of tech, I’m an anime fan, with One Piece being a particular favorite.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mirzamudassir1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-[![LeetCode Stats](https://leetcard.jacoblin.cool/mirzamudassir1?theme=dark&ext=heatmap)](https://leetcode.com/mirzamudassir1)
+<a href="https://leetcode.com/mirzamudassir1">
+  <img src="https://leetcard.jacoblin.cool/mirzamudassir1?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+</a>
 
 
 ## 🛠️ Tech Stack
